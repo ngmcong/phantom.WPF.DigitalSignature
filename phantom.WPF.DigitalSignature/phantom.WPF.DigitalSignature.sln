@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantom.WPF.DigitalSignature", "phantom.WPF.DigitalSignature.csproj", "{4C821AE7-F573-499E-8CC7-1DA419C2F15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantom.Core.DigitalSignature", "..\phantom.Core.DigitalSignature\phantom.Core.DigitalSignature.csproj", "{EADFB7A9-8D5C-4BDB-88D8-8E57120150E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phantom.Service.DigitalSignature", "..\phantom.Service.DigitalSignature\phantom.Service.DigitalSignature.csproj", "{8357B6EF-5482-594A-02C0-CCFC812DA6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C821AE7-F573-499E-8CC7-1DA419C2F15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C821AE7-F573-499E-8CC7-1DA419C2F15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C821AE7-F573-499E-8CC7-1DA419C2F15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C821AE7-F573-499E-8CC7-1DA419C2F15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADFB7A9-8D5C-4BDB-88D8-8E57120150E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADFB7A9-8D5C-4BDB-88D8-8E57120150E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADFB7A9-8D5C-4BDB-88D8-8E57120150E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADFB7A9-8D5C-4BDB-88D8-8E57120150E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8357B6EF-5482-594A-02C0-CCFC812DA6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8357B6EF-5482-594A-02C0-CCFC812DA6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8357B6EF-5482-594A-02C0-CCFC812DA6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8357B6EF-5482-594A-02C0-CCFC812DA6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4749EF-6708-4FFF-A969-BFA11FEB0A50}
+	EndGlobalSection
+EndGlobal
